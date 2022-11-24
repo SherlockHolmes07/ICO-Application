@@ -1,4 +1,4 @@
-# [Next.js](https://jazzy-cranachan-5d20fb.netlify.app/)
+# [ICO App](https://jazzy-cranachan-5d20fb.netlify.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
